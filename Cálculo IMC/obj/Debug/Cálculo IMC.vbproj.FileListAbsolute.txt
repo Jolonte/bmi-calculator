@@ -1,0 +1,13 @@
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\bin\Debug\Cálculo IMC.exe.config
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\bin\Debug\Cálculo IMC.exe
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\bin\Debug\Cálculo IMC.pdb
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\bin\Debug\Cálculo IMC.xml
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo_IMC.Form1.resources
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo_IMC.Resources.resources
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo IMC.vbproj.GenerateResource.cache
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo IMC.vbproj.CoreCompileInputs.cache
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo IMC.exe
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo IMC.xml
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo IMC.pdb
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo_IMC.Form2.resources
+C:\Users\VINICIUS\OneDrive - Etec Centro Paula Souza\.ETEC\2° ANO\DS\Aula06\Cálculo IMC\obj\Debug\Cálculo_IMC.Form3.resources

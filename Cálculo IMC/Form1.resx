@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>A Organização Mundial de Saúde afirma: a obesidade é um dos 
+mais graves problemas de saúde que temos para enfrentar. 
+Em 2025, a estimativa é de que 2,3 bilhões de adultos ao redor 
+do mundo estejam acima do peso, sendo 700 milhões de indivíduos 
+com obesidade, isto é, com um índice de massa corporal (IMC) 
+acima de 30.</value>
+  </data>
+  <assembly alias="System.Drawing" name="System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+  <data name="$this.Icon" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+    <value>
+        AAABAAEAEBAAAAEAIABoBAAAFgAAACgAAAAQAAAAIAAAAAEAIAAAAAAAAAQAAHYAAAB2AAAAAAAAAAAA
+        AAAAAAAAAAAAADw/TOJmbIP1ZmyD9WZsg/VmbIP1TVJk+EpMVeNkaHTbZGh024KHmNKepsLaPD9M4gAA
+        AAAAAAAAAAAAAAAAAABfZXrrwMz//8DM///AzP//sr3s/1Zaev9hZHr/zNPs/9zk///c5P//0Nn//15l
+        eOkAAAAAAAAAAAAAAAAAAAAAWl9z5cDM//+7xvj/cnig/0VHhv9kZOj/ZGTo/0lKhv+BhqH/1t74/8/Z
+        //9bYHTnAAAAAAAAAAAAAAAAAAAAAEBFWuJNT4X/R0iL/11d1v9ubv//bm7//25u//9ubv//Xl7W/0tM
+        i/9ORYP/QT9e5wAAAAAAAAAAAAAAAAAAAAA3OFGtaWn0/2dn7v9VVsP/UlOu/09Pnv9NTZ7/VFWu/1VW
+        w/9nZ+7/hk/r/0U/accAAAAAAAAAAAAAAAAAAAAACAwPQkpMZ/13e5b/p63C/7nA1//Hz+f/x8/n/7nA
+        1/+lq8H/d3qW/0I7Z/8SEh5FAAAAAAAAAAAAAAAAAAAAAC0vNGe+xdz/3OT//9zk///c5P//sLbM/7C2
+        zP/c5P//3OT//9zk//+msNv/NThBbgAAAAAAAAAAAAAAAAAAAAAbGx9Bn6S39tzk///c5P//3OT//9ff
+        +f/X3/n/3OT//9zk///Z4f//jZa5/iwsNEUAAAAAAAAAAAAAAAAAAAAAAAAAAEhLVMPc5P//3OT//9zk
+        ///c5P//3OT//9zk///c5P//zdj//1RYa+EAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAsLDJ7ytHq/9zk
+        ///c5P//3OT//9zk///c5P//3OT//7G86f89P0yNAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAJiYra8HI
+        4P/c5P//3OT//9zk///c5P//3OT//9zk//+qs9//OTtGeQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACst
+        M365v9b/srjO/83V7v/c5P//3OT//83V7v+yuM7/pK7W/z9BT5IAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+        AAA2OFWySUuX/1NTt/9MTZL/ZmmJ/2Zpif9NTZP/UVG3/1I5k/9GQG7TAAAAAAAAAAAAAAAAAAAAAAAA
+        AAAAAAAAREV7625u//9ubv//bm7//1hYv/9YWMD/bm7//25u//9+YPr/SjV+/AAAAAAAAAAAAAAAAAAA
+        AAAAAAAAAAAAC0hIkfpubv//bm7//25u//9ubv//bm7//25u//9ubv//d2f8/1Ayi/8AAAAJAAAAAAAA
+        AAAAAAAAAAAAAAAAABMsLFDzd3rl70hJifVFRoP1RUaD9UVGg/VFRoP1RUaD9UZChPgxI1X9AAAAEgAA
+        AAAAAAAAwAMAAMADAADAAwAAwAMAAMADAADAAwAAwAMAAMADAADgBwAA4AcAAOAHAADgBwAA4AcAAOAH
+        AADAAwAAwAMAAA==
+</value>
+  </data>
+</root>
