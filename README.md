@@ -1,4 +1,6 @@
 # Bmi-calculator
+![GitHub language count](https://img.shields.io/github/languages/count/Jolonte/bmi-calculator)
+![GitHub top language](https://img.shields.io/github/languages/top/Jolonte/bmi-calculator)
 
 <p align="center">
   <img width="600" src="assets/to_readme/splashtogithub.png"
