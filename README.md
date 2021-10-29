@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img width="460" height="300" src="assets/to_readme/imc_git_1.gif"
+  <img width="1920" height="1080" src="assets/to_readme/imc_git_1.gif"
 </p>
 
   
