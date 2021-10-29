@@ -5,10 +5,10 @@
 </p>
 
 <p align="center">
-  <img width="1200" height="720" src="assets/to_readme/imc_git_1.gif"
+  <img width="800" height="480" src="assets/to_readme/imc_git_1.gif"
 </p>
 
-  
-This is a BMI calculator made on vb.net.
+## Description  
+A program developed with the technology [VB.Net], its objective is to inform the status of your current BMI. With a nice layout, you don't need an internet connection to work
 
-The goal was to have 3 screens. And one of them had to contain an image.
+This program was developed at a didactic level, the goal is to have 3 screens an image: Introduction, calculation and a BMI table.
