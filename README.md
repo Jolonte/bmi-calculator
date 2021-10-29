@@ -1,4 +1,4 @@
-# bmi-calculator
+# Bmi-calculator
 
 This is a BMI calculator made on vb.net.
 
