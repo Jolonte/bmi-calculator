@@ -4,7 +4,9 @@
   <img width="470" src="assets/to_readme/splashtogithub.png"
 </p>
 
-
+<p align="center">
+  <img width="460" height="300" src="assets/to_readme/imc_git_1.gif"
+</p>
 
   
 This is a BMI calculator made on vb.net.
