@@ -15,6 +15,7 @@ A program developed with the technology [VB.Net], its objective is to inform the
 This program was developed at a didactic level, the goal is to have 3 screens an image: Introduction, calculation and a BMI table.
   
   - Calculator available only in PT-BR.
+  - Windows only compatible.
 
 ### Download
 https://github.com/Jolonte/bmi-calculator/releases/tag/bmi
